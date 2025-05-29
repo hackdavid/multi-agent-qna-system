@@ -1,0 +1,10 @@
+# Ignore JetBrains IDE files
+.idea/
+*.iml
+
+# Ignore Python cache files (if it's a Python project)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
